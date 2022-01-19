@@ -1,7 +1,7 @@
 # React
 React Lessons
 
-Lesson-1
+Lesson-1:
 React без JSX
-----------------
+
 
