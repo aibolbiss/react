@@ -8,3 +8,7 @@ React с JSX
 
 Lesson-3:
 state and setState в классовом компоненте
+
+Lesson-4:
+1) state в конструкторе. 
+2) Как использовать bind если функции не стрелочные.
