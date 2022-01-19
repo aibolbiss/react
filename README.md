@@ -1,6 +1,6 @@
 # React
 
-#Lesson-1:
+# Lesson-1:
 1) React без JSX
 
 Lesson-2:
