@@ -1,13 +1,13 @@
 # React
 
 Lesson-1:
-React без JSX
+1) React без JSX
 
 Lesson-2:
-React с JSX
+1) React с JSX
 
 Lesson-3:
-state and setState в классовом компоненте
+1) state and setState в классовом компоненте
 
 Lesson-4:
 1) state в конструкторе. 
